@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Zaffar 👋
+I'm a Full-Stack Developer from India. I have experience building web applications and services in various verticals. I also enjoy building side projects in my free time. 👋
 
 <!--
 **zaffar415/zaffar415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
